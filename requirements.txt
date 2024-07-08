@@ -10,4 +10,4 @@ flask
 flask-cors
 openpyxl
 opencv-python
-gunicorn
+Gunicorn
