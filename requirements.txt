@@ -1,0 +1,13 @@
+transformers==4.41.2
+easyocr==1.7.1
+torch==2.3.0
+huggingface_hub== 0.23.4
+torchvision==0.18.0
+matplotlib==3.7.1
+numpy== 1.25.2
+pandas== 2.0.3
+flask
+flask-cors
+openpyxl
+opencv-python
+gunicorn
