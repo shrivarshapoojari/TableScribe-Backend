@@ -240,6 +240,6 @@ def upload_file():
 
         return send_file(os.path.join("output", "output.xlsx"), as_attachment=True)
 
- if __name__=='main':
+if __name__=='main':
     app.run(debug=True)
 
